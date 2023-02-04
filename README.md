@@ -1,25 +1,17 @@
 # trasfer_raw_images  
 Script for moving raw photo files to .jpg files directory after the selection of the good .jpg pictures.  
 
-* Step one:  
-    Separete raw and .jpg files in  
-    differente directories:  
+1. Separete raw and .jpg files in differente directories:  
     
     | File Type | Dir. Name |  
     | --------- | --------- |
     |  .jpg     |  'Fotos'  |  
     |   raw     |   'raw'   |  
 
-* Step two:  
-    Select the best images on .jpg  
-    directory  
+2. Select the best images on .jpg directory  
     
-* Step three:  
-    Run script  
+3. Run script  
     
-* Step four:  
-    Feel Free for moving files to  
-    the most convenient location  
+4. Feel Free for moving files to the most convenient location  
     
-* Step five:  
-    Have fun with the time saved ;D  
+5. Have fun with the time saved ;D  
