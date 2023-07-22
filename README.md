@@ -1,6 +1,7 @@
 # trasfer_raw_images  
-Script for moving raw photo files to .jpg files directory after the selection of the good .jpg pictures.  
+Script for moving raw picture files to .jpg files directory after selecting the goods .jpg pictures.  
 
+Instructions:
 1. Separete raw and .jpg files in differente directories:  
     
     | File Type | Dir. Name |  
